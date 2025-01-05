@@ -1,2 +1,2 @@
 # anusa-career-website
-Anusha's career website
+A career website for anusa
